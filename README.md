@@ -3,6 +3,6 @@ This is a Github Repo hosting the Colab version of our final project for Math 15
 
 Topic: Deep Learning Network using ResNet18 structure to predict germen traffic signs using the [GTSRB dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data?select=Train).
 
-The model is completely based on the ResNet acrchitecture proposed in this [papaer](https://arxiv.org/abs/1512.03385).
+The model is completely based on the ResNet acrchitecture proposed in this [paper](https://arxiv.org/abs/1512.03385).
 
 Group member: Eric Huang, Marvin Wong, Lawrence Lee, Ernest Leung
